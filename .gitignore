@@ -34,3 +34,4 @@ effectiveJava.iml
 pom.xml
 /.gitignore
 target/
+*.class
